@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import websocketStore from "svelte-websocket-store";
     import { library } from '@fortawesome/fontawesome-svg-core';
     import { faSpinner as fasSpinner } from '@fortawesome/free-solid-svg-icons';

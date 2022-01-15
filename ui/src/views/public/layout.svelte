@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import { onMount } from 'svelte'
     import { Route } from 'svelte-router-spa';
     import TopHeader from './top_header.svelte';
@@ -7,7 +7,6 @@
 
     export let currentRoute
     const params = {};
-
 </script>
 
 <div class="app">

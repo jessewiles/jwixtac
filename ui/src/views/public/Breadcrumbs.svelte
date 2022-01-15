@@ -5,4 +5,6 @@
     import { FontAwesomeIcon, FontAwesomeLayers, FontAwesomeLayersText } from 'fontawesome-svelte';
 </script>
 
-<p><Navigate to=""><FontAwesomeIcon icon={fasHome} size="2x" /></Navigate></p>
+<p>
+    <Navigate to=""><FontAwesomeIcon icon={fasHome} size="2x" /></Navigate>
+</p>
